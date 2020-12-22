@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :timeblocks
   resources :years
   resources :months
   resources :weeks

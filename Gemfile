@@ -22,7 +22,8 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'omniauth-oauth2', '~> 1.7'
-gem 'omniauth-google-oauth2'
+gem 'omniauth-google-oauth2', '~> 0.8.1'
+gem 'dotenv-rails', '~> 2.7', '>= 2.7.6'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

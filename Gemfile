@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'omniauth-oauth2', '~> 1.7'
 gem 'omniauth-google-oauth2', '~> 0.8.1'
 gem 'dotenv-rails', '~> 2.7', '>= 2.7.6'
+gem 'jwt', '~> 2.2', '>= 2.2.2'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
